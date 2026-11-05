@@ -1,0 +1,9 @@
+{"logTime": "1031/113011", "session": "START"}
+{"logTime": "1031/113011", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "1031/113026", "session": "END"}
+{"logTime": "1031/113027", "session": "START"}
+{"logTime": "1031/113027", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "1031/113051", "session": "END"}
+{"logTime": "1031/113449", "session": "START"}
+{"logTime": "1031/113449", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "1031/114041", "session": "END"}
